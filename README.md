@@ -14,3 +14,4 @@ xrayutilities: xrayutilities: a versatile tool for reciprocal space conversion o
 - https://www.youtube.com/watch?v=jiY9e4pl2t0&pp=ygUORHpoaWdhZXYgYnJhZ2c%3D
 
 - https://www.youtube.com/watch?v=NgygM3opUho&pp=ygUORHpoaWdhZXYgYnJhZ2c%3D&themeRefresh=1
+- https://www.youtube.com/watch?v=8rJYhRMVvQw
